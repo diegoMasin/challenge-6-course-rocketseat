@@ -1,4 +1,4 @@
-![Alt text](https://github.com/diegoMasin/maximumtech/bob/master/assets/img/logo-colorida.png)<br>
+![Alt text](https://github.com/diegoMasin/maximumtech/blob/master/assets/img/logo-colorida.png)<br>
 
 # Desafio 6 - Curso GoStack Rocketseat
 
