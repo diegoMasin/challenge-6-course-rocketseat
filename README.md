@@ -1,3 +1,5 @@
+![Alt text](https://github.com/diegoMasin/maximumtech/bob/master/assets/img/logo-colorida.png)<br>
+
 # Desafio 6 - Curso GoStack Rocketseat
 
 ```Seguindo o template proposto, criar as seguintes rotas:```
@@ -5,4 +7,4 @@
 - **Dica:** Para a categoria, você deve criar uma nova tabela, que terá os campos id, title, created_at, updated_at.
 - **Dica 2:** Antes de criar uma nova categoria, sempre verifique se já existe uma categoria com o mesmo título. Caso ela exista, use o id já existente no banco de dados.
 
-##### Executar **_yarn test_** para avaliar as diretrizes passadas.
+###### Executar **_yarn test_** para avaliar as diretrizes passadas.
